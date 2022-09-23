@@ -1,0 +1,4 @@
+git add [namefile] : ajout du fichier pour commit
+git commit -m "Commentaire du commit" : effectuer un commit
+git status : affiche l'etat du dossier git (si on a modif un fichier et qu'il faut commit...)
+git log --online : affiche l'historique des actions du git
